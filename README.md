@@ -7,7 +7,7 @@
 ```ruby
 require './dawkins_weasel.rb'
 
-DawkinsWeasel.new('METHINKS IT IS LIKE A WEASEL').run
+puts DawkinsWeasel.new('METHINKS IT IS LIKE A WEASEL').run
 ```
 ### Output example
 
